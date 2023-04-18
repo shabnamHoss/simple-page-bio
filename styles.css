@@ -1,0 +1,23 @@
+		footer {
+			position: fixed;
+			left: 0px;
+			bottom: 0px;
+			right: 0px;
+			height: 50px;
+            padding: 10px;
+			background-color: gray;
+			color: white;
+			text-align: center;
+		}
+		body {
+			margin-bottom:80px;
+			background-color:lightyellow;
+		}
+       
+    h1 { font-size: 2em; margin: .67em 0; color: #000033;}
+    h2 { font-size: 1.5em; margin: .75em 0; color: #003300; }
+    h3 { font-size: 1.17em; margin: .83em 0; color: black;}
+    h4 { font-size: .83em; margin: 1.5em 0; color: #202020;}
+    h5 { font-size: .75em; margin: 1.67em 0;color: #003366; }
+        
+	
